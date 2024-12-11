@@ -53,7 +53,7 @@ Una faceta primordial es la mejora de las lecciones en línea a través de la ga
 Además, los estudiantes tienen la función del chat durante la sesión, para conversar, compartir archivos y preguntar, pero el tutor siempre tiene acceso a los mensajes.
 Classtime es un medio hibrido que combina las opciones de medios que existían previamente y se combinan.
 **Los botones de medios sociales** le permiten al usuario compartir fácilmente parte del contenido de la página o aplicación.
-En la actualida, en un entorno digital a través de las nuevas tecnologías y de la redes sociales de compuradoras, la educación se encuentra fundamentada por el uso de los nuevos medios a partir de ciertas decisiones pedadogicas y didácticas.
+En la actualidad, en un entorno digital a través de las nuevas tecnologías y de la redes sociales de compuradoras, la educación se encuentra fundamentada por el uso de los nuevos medios a partir de ciertas decisiones pedadogicas y didácticas.
 Asimismo, como modalidad, la educación online desde su creación se vio impactada por diversas utilización de la tecnología al suprimirse como forma organizada para los estudios presenciales, con soportes diferentes.
 Hoy en día, los nuevos medios se han incorporado al ambito educativo.
 
