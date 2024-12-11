@@ -60,7 +60,7 @@ Classtime es un medio hibrido que combina las opciones de medios que existían p
 
 ### Referencias y Bibliografía
 
-* **Manovich Lev (2013).** _El Software toma el mando. Barcelona. Editorial UOC
+ **Manovich Lev (2013).** _El Software toma el mando. Barcelona. Editorial UOC
 
 ▪ **www.edutools.tec.wz > tecnologías.** _Tecnologías de Monterrey._
 
