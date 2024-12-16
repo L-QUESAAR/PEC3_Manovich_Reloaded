@@ -24,7 +24,7 @@ En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir s
 
 
 
-## Re-descubriendo la hibridacion: ¡STANGING (experiencias digitales inmersas)
+## Re-descubriendo la hibridacion: ¡STAGING (experiencias digitales inmersas)
 
 Es una plataforma que nos permite capturar panorámicas en 360 grados usando el móvil, con la opción de guardar el tour en sus servidores para que se puedan mostrar los detalles de cualquier recinto.
 Una de las características de ¡Stanging, es que, por medios de software, la creación de recorridos virtuales nos ofrece una experiencia sensorial bastante cómoda. Nos permite visitar lugares o visualizar objetos y nos ayuda crear una perspectiva de la arquitectura de un lugar sin tener que ir al lugar.
@@ -64,7 +64,7 @@ Hoy en día, los nuevos medios se han incorporado al ambito educativo.
 La hibridación de medios es la combinación de dos o más medios de diferente tipo.
 ¡Stating y Classtime descritos en este informe, son dos ejemplos de hibridación actual, en el que se combinan elementos tradicionales con la tecnología, una fusión de medios.
 
-*¡Stating* es una experiencia de realidad virtual, sin moverte del sitio. Revolución de terciopelo, un nuevo lenguaje virtual de las imágenes en movimiento.
+*¡Staging* es una experiencia de realidad virtual, sin moverte del sitio. Revolución de terciopelo, un nuevo lenguaje virtual de las imágenes en movimiento.
 
 Y *Classtime* es un enfoque integral donde se combina las mejores pautas de la formación presencial y en línea para crear la experiencia de aprendizaje ideal.
 
