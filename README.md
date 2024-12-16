@@ -12,7 +12,7 @@ Fecha: 20 de diciembre de 2024
 
 
 
-## Planteamiento
+## Introducción
 
 Manovich realiza la siguiente pregunta en el libro ¿qué permite la hibridación de las técnicas de creación y navegación de medios?
 La respuesta, es un encaje de una estructura de datos concreta y los algoritmos para la creación, edición y visualización de los contenidos almacenados es esa estructura.
