@@ -60,6 +60,15 @@ Hoy en día, los nuevos medios se han incorporado al ambito educativo.
 ![Classtime](https://i.pinimg.com/1200x/b9/0c/9d/b90c9d075960a89b1c13670d1c24a134.jpg)
 
 
+##Conclusión
+La hibridación de medios es la combinación de dos o más medios de diferente tipo.
+¡Stating y Classtime descritos en este informe, son dos ejemplos de hibridación actual, en el que se combinan elementos tradicionales con la tecnología, una fusión de medios.
+¡Stating es una experiencia de realidad virtual, sin moverte del sitio. Revolución de terciopelo, un nuevo lenguaje virtual de las imágenes en movimiento.
+Y Classtime es un enfoque integral donde se combina las mejores pautas de la formación presencial y en línea para crear la experiencia de aprendizaje ideal.
+
+
+
+
 
 ### Referencias y Bibliografía
 
